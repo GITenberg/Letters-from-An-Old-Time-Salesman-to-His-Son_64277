@@ -1,0 +1,25 @@
+_repo: Letters-from-An-Old-Time-Salesman-to-His-Son_64277
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Aspley, J. C.
+    gutenberg_agent_id: '52833'
+    url: http://www.gutenberg.org/2009/agents/52833
+creator:
+  author:
+    agent_name: James, Roy Lester
+    gutenberg_agent_id: '52832'
+    url: http://www.gutenberg.org/2009/agents/52832
+description: ''
+gutenberg_issued: '2021-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64277'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Letters from An Old Time Salesman to His Son
+url: http://www.gutenberg.org/ebooks/64277
