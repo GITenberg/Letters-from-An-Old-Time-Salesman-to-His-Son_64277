@@ -5,12 +5,17 @@ contributor:
     agent_name: Aspley, J. C.
     gutenberg_agent_id: '52833'
     url: http://www.gutenberg.org/2009/agents/52833
+covers:
+- cover_type: archival
+  image_path: 64277-h/images/cover.jpg
 creator:
   author:
     agent_name: James, Roy Lester
     gutenberg_agent_id: '52832'
     url: http://www.gutenberg.org/2009/agents/52832
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64277#Letters-from-An-Old-Time-Salesman-to-His-Son
 gutenberg_issued: '2021-01-12'
 gutenberg_type: Text
 identifiers:
